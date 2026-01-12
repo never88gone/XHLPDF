@@ -6,7 +6,7 @@
 
 TVOS上使用PDF查看工具，可以查看SMB文件系统、本地的PDF文件，同时可以通过手机投屏将url，已经本地文件上传到tv上进行pdf的查看<br>
 TF地址<br>
-- [https://testflight.apple.com/join/EVsAuvZn](https://testflight.apple.com/join/EVsAuvZn)
+- [https://testflight.apple.com/join/4kqbe61s](https://testflight.apple.com/join/4kqbe61s)
 
 # PDF展示
 <p align="center">
