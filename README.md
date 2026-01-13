@@ -10,7 +10,7 @@ TF地址<br>
 
 # PDF展示
 <p align="center">
-  <img alt="TVPDF" src="screenshot/pdf展示.png" />
+  <img alt="TVPDF" src="screenshot/PDF的展示.png" />
 </p>
 <p align="center">
   <img alt="TVPDF" src="screenshot/PDF操作指南.png" />
