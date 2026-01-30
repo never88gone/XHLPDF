@@ -11,13 +11,13 @@
   <img alt="TVPDF" src="screenshot/1920*720.jpg"/>
 </p>
 
-A PDF viewing tool for tvOS. It supports viewing PDF files from SMB file systems and local storage. It also allows casting URLs from a mobile phone and uploading local files to the TV for PDF viewing.
+TVOS上使用PDF查看工具，可以查看SMB文件系统、本地的PDF文件，同时可以通过手机投屏将url，已经本地文件上传到tv上进行pdf的查看。
 
-**TestFlight Address**
+**TF地址**
 
 - [https://testflight.apple.com/join/4kqbe61s](https://testflight.apple.com/join/4kqbe61s)
 
-# PDF Display
+# PDF展示
 
 <p align="center">
   <img alt="TVPDF" src="screenshot/PDF的展示.png" />
@@ -26,41 +26,41 @@ A PDF viewing tool for tvOS. It supports viewing PDF files from SMB file systems
   <img alt="TVPDF" src="screenshot/PDF操作指南.png" />
 </p>
 
-# PDF History
+# PDF历史记录
 
-PDF History page, empty by default.
+PDF历史页面，默认没有数据。
 
 <p align="center">
   <img alt="TVPDF" src="screenshot/历史页面无数据.png" />
 </p>
 
-Once reviewed, PDF data will be added to this list page.
+查看过PDF数据后会添加到该列表页面。
 
 <p align="center">
   <img alt="TVPDF" src="screenshot/本地存储有数据.png" />
 </p>
 
-# File List
+# 文件列表
 
-Currently, the file list includes three types of data:
+目前文件列表包含三种数据：
 
-1. SMB Servers
-2. Local Files
-3. Upload PDF: The upload PDF section displays a QR code. You can upload PDF URL addresses from your mobile phone, or upload PDF files from your phone's local storage or iCloud. Uploaded files will be saved locally.
+1. SMB服务器
+2. 本地文件
+3. 上传PDF，上传PDF会显示二维码，手机端可以上传PDF的url地址，已经上传手机端本地以及icloud中的PDF文件上传，上传后文件会保存在本地文件中。
 
 <p align="center">
-  <img alt="XiHaLu" src="screenshot/文件列表.png" width="400px"/>
+  <img alt="小葫芦" src="screenshot/文件列表.png" width="400px"/>
 </p>
 <p align="center">
-  <img alt="XiHaLu" src="screenshot/上传PDF.png" width="400px"/>
+  <img alt="小葫芦" src="screenshot/上传PDF.png" width="400px"/>
 </p>
 
-# Settings
+# 设置
 
-The PDF Settings page allows you to configure how PDFs are displayed.
+PDF设置页面可以设置PDF的展示方式。
 
 <p align="center">
-  <img alt="XiHaLu" src="screenshot/PDF设置.png" width="400px"/>
+  <img alt="小葫芦" src="screenshot/PDF设置.png" width="400px"/>
 </p>
 
 ### Releases
@@ -72,7 +72,7 @@ The PDF Settings page allows you to configure how PDFs are displayed.
 - [https://t.me/tanghulutvos](https://t.me/tanghulutvos)
 
 <p align="center">
-  <img alt="XiHaLu" src="screenshot/telegram_icon.png" />
+  <img alt="小葫芦" src="screenshot/telegram_icon.png" />
 </p>
 
 ### Links

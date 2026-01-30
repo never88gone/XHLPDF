@@ -1,2 +1,5 @@
-####20260112
-1.初始版本<br>
+# Release Notes
+
+## 2026-01-12
+
+- Initial release.
